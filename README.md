@@ -1,2 +1,2 @@
-# Vine-review-NLP
-Predicting variety of the Vine from a review
+# Wine-review-NLP
+Predicting variety of the Wine from a review
